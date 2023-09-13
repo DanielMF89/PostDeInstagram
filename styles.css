@@ -1,11 +1,10 @@
-
 body {background-color: black;
     font-family: 'Roboto', sans-serif;
 }
 .post {padding: 1px;
     background-color: white;
     width: 30%;
-    height: 450px;
+    height: 570px;
     margin: auto;
     border-radius: 20px;
     margin-top: 40px;
@@ -36,7 +35,7 @@ margin-right:11px ;
     display: flex;
     align-items: center;
     margin-top: 5px;
-    margin-left: 5px;
+    margin-left: 10px;
     
 }
 .icono1 {
@@ -54,7 +53,5 @@ margin-right: 5px;
 
 }
 .postbody {
-margin-left:5px ;
+margin-left:10px ;
 }
-
-    
